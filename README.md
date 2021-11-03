@@ -1,5 +1,5 @@
 # Post App
-A simple post app that will grow with the time.
+A simple post app that will grow with the time, built it with React Js.
 
 ## To Do
 - [ ] Login with Facebook, Twitter, Github.

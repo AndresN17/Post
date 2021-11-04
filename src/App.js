@@ -1,10 +1,14 @@
 import './App.css';
+import { Fragment } from 'react';
+import Post from './components/Post/Post';
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <Fragment>
+      <Post />
+      <Post />
+      <Post />
+    </Fragment>
   );
 }
 
